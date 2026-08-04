@@ -1,0 +1,14 @@
+each 10 ms
+
+my cpu according to rdtsc
+2 663 000 000 hz
+
+10 ms callback took
+30 000 ticks
+
+fraction
+0.00075
+
+what is done: sinf with fmodf + loopback
+
+
